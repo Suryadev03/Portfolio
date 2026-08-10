@@ -1,278 +1,301 @@
-# 🌐 Surya Dev — Data Science × AI/ML Portfolio
+# 🌐✨ SURYA DEV — DATA SCIENCE × AI/ML PORTFOLIO
 
-Welcome to my personal portfolio website.
+<div align="center">
 
-I am **Surya Dev Singh Thakur**, an analytical engineering graduate aspiring to build a career in **Data Science, Artificial Intelligence, Machine Learning and Generative AI**.
+## 👨‍💻 Surya Dev Singh Thakur
 
-This portfolio showcases my technical skills, projects, experience, education, certifications and hands-on learning journey.
+### 📊 Data Science • 🤖 Artificial Intelligence • 🧠 Machine Learning • ✨ Generative AI
 
----
+🚀 Building with Data &nbsp; | &nbsp; 🧠 Learning with AI &nbsp; | &nbsp; 💡 Solving Real-World Problems
 
-## 🚀 Live Portfolio
+### 🌐 [VIEW MY PORTFOLIO](https://suryadev03.github.io/portfolio/)
 
-🌐 **Portfolio:**  
-https://suryadev03.github.io/portfolio/
+🐙 [GitHub](https://github.com/Suryadev03) &nbsp; • &nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/suryadevsinghthakur/) &nbsp; • &nbsp; 📧 [Email](mailto:baistsuryadevsinghthakur@gmail.com)
 
----
-
-## 👨‍💻 About Me
-
-I am an analytical engineering graduate with hands-on experience in **data analysis, machine learning, deep learning, computer vision and Generative AI**.
-
-I enjoy working through the complete data-to-intelligence journey:
-
-**Data → Clean → Explore → Engineer → Model → Evaluate → Deploy → Intelligence**
-
-My focus is on building practical, useful and interactive solutions rather than only working with theoretical concepts.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💻 ABOUT ME
 
-### Programming & Data
+> 🎯 **Engineer by education. Problem solver by nature.**
 
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Pandas
-- 🔢 NumPy
-- 📈 Matplotlib
-- 🛢️ MySQL
+I am an analytical engineering graduate aspiring to build a career in **Data Science, Artificial Intelligence, Machine Learning and Generative AI**.
 
-### Machine Learning & AI
+I enjoy the complete journey of transforming raw information into practical intelligence.
 
-- 🤖 Machine Learning
-- 🧠 Scikit-learn
-- 🔥 Deep Learning
-- 🕸️ TensorFlow / Keras
-- 🔥 PyTorch
-- 👁️ Computer Vision
-- 🧬 Natural Language Processing
-- ✨ Generative AI
-- 🔎 Retrieval-Augmented Generation (RAG)
+**📊 Data → 🧹 Clean → 🔍 Explore → ⚙️ Engineer → 🧠 Model → 📈 Evaluate → 🚀 Deploy → ✨ Intelligence**
 
-### Web & Application Development
-
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🧪 Flask
-- 🚀 Streamlit
-
-### Business Intelligence
-
-- 📊 Power BI
-- 📉 Tableau
-- 🧩 Power Apps
-- ⚙️ Power Automate
-- 🗃️ Dataverse
-- 🌐 Power Pages
-- 🤖 Copilot Studio
-
-### Cloud & Development Tools
-
-- ☁️ AWS
-- 🐙 Git
-- 🐙 GitHub
+| 🎯 DATA-FIRST | 💻 PROJECT-BASED | 💡 ALWAYS CURIOUS |
+|---|---|---|
+| Think from data | Learn by building | Keep exploring |
 
 ---
 
-# 📊 Featured Projects
+## 📊 PORTFOLIO HIGHLIGHTS
 
-## 1. 🛡️ Social Media Network Filtering
-
-A computer-vision based content moderation system designed to analyze video frames and identify potentially harmful or inappropriate visual content.
-
-### Technologies
-
-- Python
-- TensorFlow
-- CNN
-- Computer Vision
-- Flask
-
-### Key Concept
-
-**Video → Frame Extraction → Image Analysis → Content Rating → Admin Review**
+| 🚀 PROJECTS | 🏆 CERTIFICATIONS | 🎓 LEARNING JOURNEY | 💡 PASSION |
+|---|---|---|---|
+| **10+** | **25+** | **3+** | **100%** |
 
 ---
 
-## 2. 🤖 RAG Chatbot
+## 🛠️ TECHNICAL SKILLS
 
-A Retrieval-Augmented Generation chatbot designed to provide context-aware responses using information retrieved from a knowledge base.
+### 🐍 Programming & Data
 
-### Technologies
+**🐍 Python — 95%**  
+███████████████████░
 
-- Python
-- RAG
-- LLM
-- NLP
-- Generative AI
+**🗄️ SQL — 88%**  
+█████████████████░░░
 
----
+**📊 Pandas — 88%**  
+█████████████████░░░
 
-## 3. 🧠 Brain Tumor Classification
+**🔢 NumPy — 82%**  
+████████████████░░░░
 
-A deep-learning based computer-vision project for classifying brain MRI images.
+**📈 Matplotlib — 78%**  
+███████████████░░░░░
 
-### Technologies
+**🛢️ MySQL — 76%**  
+███████████████░░░░░
 
-- Python
-- CNN
-- TensorFlow
-- Deep Learning
-- Computer Vision
+### 🤖 Machine Learning & AI
 
----
+**🤖 Machine Learning — 88%**  
+█████████████████░░░
 
-## 4. 🗳️ E-Voting System
+**🧠 Scikit-learn — 86%**  
+█████████████████░░░
 
-A web-based electronic voting application with authentication, database integration and result management.
+**🕸️ TensorFlow / Keras — 84%**  
+████████████████░░░░
 
-### Technologies
+**👁️ Computer Vision — 82%**  
+████████████████░░░░
 
-- Python
-- Flask
-- SQL
-- HTML
-- CSS
-- JavaScript
+**✨ Generative AI — 80%**  
+████████████████░░░░
 
----
+**🔎 RAG — 78%**  
+███████████████░░░░░
 
-## 📁 Other Projects
+**🧬 NLP — 76%**  
+███████████████░░░░░
 
-### 📄 Resume Matcher
+**🔥 PyTorch — 70%**  
+██████████████░░░░░░
 
-NLP-based system for comparing resumes with job requirements.
+### 🌐 Web & Application Development
 
-**Technologies:** Python, NLP, TF-IDF
+**🌐 HTML — 72%**  
+██████████████░░░░░░
 
-### 💳 Credit Card Fraud Detection
+**🎨 CSS — 68%**  
+█████████████░░░░░░░
 
-Machine-learning workflow for identifying potentially fraudulent transactions.
+**⚡ JavaScript — 62%**  
+████████████░░░░░░░░
 
-**Technologies:** Python, Machine Learning, Pandas
+**🧪 Flask — 72%**  
+██████████████░░░░░░
 
-### 🏗️ Structural Defects Detection
+**🚀 Streamlit — 78%**  
+███████████████░░░░░
 
-Computer-vision project for identifying structural defects from images.
+### 📊 Business Intelligence
 
-**Technologies:** Python, OpenCV, CNN
+**📊 Power BI — 82%**  
+████████████████░░░░
 
-### 🎬 Movie Recommendation System
+**📉 Tableau — 60%**  
+████████████░░░░░░░░
 
-Recommendation system for suggesting movies based on user and content patterns.
+**🧩 Power Apps — 72%**  
+██████████████░░░░░░
 
-**Technologies:** Python, Machine Learning, Pandas
+**⚙️ Power Automate — 76%**  
+███████████████░░░░░
 
-### ❤️ Healthify Clone App
+### ☁️ Cloud & Development
 
-Health-focused application concept inspired by modern wellness applications.
+**☁️ AWS — 58%**  
+███████████░░░░░░░░░
 
-**Technologies:** Python, SQLite, Application Development
-
-### 🎬 Netflix Data Analysis
-
-Exploratory analysis of Netflix titles, genres, countries and content trends.
-
-**Technologies:** Python, Pandas, EDA
-
-### 🌦️ Weather Report Analysis
-
-Data-analysis project focused on weather measurements and trends.
-
-**Technologies:** Python, Pandas, Matplotlib
-
-### ✨ MOM Generator
-
-Generative-AI based workflow for converting meeting discussions into structured Minutes of Meeting.
-
-**Technologies:** Python, NLP, Generative AI
-
-### 🐍 Snake Game
-
-Classic Snake game developed using Python.
-
-**Technologies:** Python, Pygame
+**🐙 Git / GitHub — 76%**  
+███████████████░░░░░
 
 ---
 
-# 💼 Experience
+## 🔬 DATA → INTELLIGENCE
 
-## Power Platform Intern
+### 📊 → 🧹 → 🔍 → ⚙️ → 🧠 → 📈 → 🚀 → ✨
 
-**Powerstacker — Acclero Inc. | Pune City**
+| 📊 DATA | 🧹 CLEAN | 🔍 EXPLORE | ⚙️ ENGINEER |
+|---|---|---|---|
+| COLLECT | PREPARE | UNDERSTAND | FEATURES |
 
-**March 2026 — May 2026**
+⬇️
 
-- Built interactive **Power BI dashboards** for KPI tracking and business insights.
-- Automated repetitive business processes using **Power Automate** and developed applications using **Power Apps**.
-- Worked with **Dataverse, Power Pages and Copilot Studio** to support low-code and AI-powered business solutions.
-
-### Technologies
-
-`Power BI` `Power Apps` `Power Automate` `Dataverse` `Power Pages` `Copilot Studio`
+| 🧠 MODEL | 📈 EVALUATE | 🚀 DEPLOY | ✨ INTELLIGENCE |
+|---|---|---|---|
+| LEARN | VALIDATE | DELIVER | IMPACT |
 
 ---
 
-# 🎓 Education
+## 💼 EXPERIENCE
 
-### Postgraduate Degree — Data Science with Generative AI
+### 🚀 Power Platform Intern
 
-**Great Learning, Bangalore**
+**🏢 Powerstacker — Acclero Inc. · Pune City**
 
-**2026**
+📅 **March 2026 — May 2026**
+
+**🛠️ Technologies:**  
+`📊 Power BI` `🧩 Power Apps` `⚙️ Power Automate` `🗃️ Dataverse` `🌐 Power Pages` `🤖 Copilot Studio`
+
+### 🔹 Key Contributions
+
+> 📊 Built interactive **Power BI dashboards** for KPI tracking and business insights.
+
+> ⚙️ Automated repetitive business processes using **Power Automate** and developed applications using **Power Apps**.
+
+> 🤖 Worked with **Dataverse, Power Pages and Copilot Studio** to support low-code and AI-powered business solutions.
 
 ---
 
-### B.Tech — Computer Science
+# 🚀 PROJECTS
+
+## 🛡️ SOCIAL MEDIA NETWORK FILTERING
+
+### ⭐ Featured Project
+
+**👁️ Computer Vision × 🧠 CNN × 🛡️ Content Moderation**
+
+> 🎯 A video-frame analysis system designed to identify potentially harmful visual content and support social-media content moderation.
+
+### 🔄 Workflow
+
+**🎥 Video → 🖼️ Frame Extraction → 🧠 CNN Analysis → ⭐ Content Rating → 👨‍💼 Admin Review → 🗑️ Moderation**
+
+### 🧰 Technologies
+
+`🐍 Python` `🧠 TensorFlow` `👁️ Computer Vision` `🧠 CNN` `🌐 Flask`
+
+---
+
+## 🤖 RAG CHATBOT
+
+> 🔎 Retrieval-Augmented Generation chatbot designed to provide context-aware answers from a knowledge base.
+
+**🧰 Stack:** `Python` `RAG` `LLM` `NLP` `Generative AI`
+
+---
+
+## 🧠 BRAIN TUMOR CLASSIFICATION
+
+> 🩻 CNN-based classification system for brain MRI images.
+
+**🧰 Stack:** `Python` `CNN` `TensorFlow` `Deep Learning` `Computer Vision`
+
+---
+
+## 🗳️ E-VOTING SYSTEM
+
+> 🔐 Web-based electronic voting application with authentication, database support and result management.
+
+**🧰 Stack:** `Python` `Flask` `SQL` `HTML` `CSS` `JavaScript`
+
+---
+
+## 📁 OTHER PROJECTS
+
+| 🚀 PROJECT | 📝 DESCRIPTION | 🧰 TECHNOLOGIES |
+|---|---|---|
+| 📄 **Resume Matcher** | NLP-based resume and job requirement matching | Python • NLP • TF-IDF |
+| 💳 **Credit Card Fraud Detection** | Identifies potentially fraudulent transactions | Python • ML • Pandas |
+| 🏗️ **Structural Defects Detection** | Detects structural defects from images | Python • OpenCV • CNN |
+| 🎬 **Movie Recommendation System** | Recommends movies using user/content patterns | Python • ML • Pandas |
+| ❤️ **Healthify Clone App** | Health-focused application concept | Python • SQLite |
+| 🎬 **Netflix Data Analysis** | Explores Netflix titles, genres and trends | Python • Pandas • EDA |
+| 🌦️ **Weather Report Analysis** | Analyzes weather measurements and trends | Python • Pandas • Matplotlib |
+| ✨ **MOM Generator** | Converts meeting discussions into structured MOMs | Python • NLP • GenAI |
+| 🐍 **Snake Game** | Classic Snake game | Python • Pygame |
+
+---
+
+# 🎓 EDUCATION
+
+### 🎓 Data Science with Generative AI
+
+**🏫 Great Learning**  
+📍 Bangalore  
+📅 2026  
+🎯 Postgraduate Degree
+
+### 🎓 B.Tech — Computer Science
 
 **Artificial Intelligence & Machine Learning**
 
-**Holy Mary Institute of Technology & Science, Hyderabad**
-
-**2025 | 72%**
-
----
-
-# 🏆 Certifications
-
-My portfolio contains certificates and credentials covering areas such as:
-
-- Data Analytics
-- Data Visualization
-- Python
-- Machine Learning
-- Artificial Intelligence
-- Generative AI
-- SQL
-- Web Development
-- Cybersecurity
-- Cloud & Technology
-- Robotics
-- Professional Development
-
-The portfolio provides access to the available certificate documents and their corresponding previews.
+**🏫 Holy Mary Institute of Technology & Science**  
+📍 Hyderabad  
+📅 2025  
+📊 **72%**
 
 ---
 
-# 🔬 Data → Intelligence
+# 🏆 CERTIFICATIONS
 
-My approach to solving data and AI problems follows a practical workflow:
+### 📜 25+ CERTIFICATIONS
+
+My certification journey includes credentials and learning experiences across:
+
+**🐍 Python • 🤖 Artificial Intelligence • 🧠 Machine Learning • ✨ Generative AI • 📊 Data Analytics • 📈 Data Visualization • 🗄️ SQL • 🌐 Web Development • 🔐 Cybersecurity • ☁️ Cloud & Technology • 🤖 Robotics • 💼 Professional Development**
+
+📜 **Actual certificate documents and previews are available through the portfolio.**
+
+🌐 **[VIEW CERTIFICATES](https://suryadev03.github.io/portfolio/)**
+
+---
+
+# 🧪 AI LAB
 
 ```text
-DATA
-  ↓
-CLEAN
-  ↓
-EXPLORE
-  ↓
-ENGINEER
-  ↓
-MODEL
-  ↓
-EVALUATE
-  ↓
-DEPLOY
-  ↓
-✨ INTELLIGENCE
+╭──────────────────────────────────────────────╮
+│  💻 surya@portfolio:~                        │
+│                                              │
+│  $ initialize_data_scientist()               │
+│                                              │
+│  ✓ 🐍 Python                                 │
+│  ✓ 🗄️ SQL                                   │
+│  ✓ 🤖 Machine Learning                       │
+│  ✓ 🔥 Deep Learning                          │
+│  ✓ ✨ Generative AI                          │
+│  ✓ 🔎 RAG                                    │
+│  ✓ 📊 Data Analytics                         │
+│                                              │
+│  $ status                                    │
+│                                              │
+│  🟢 AVAILABLE_FOR_OPPORTUNITIES = TRUE       │
+│                                              │
+╰──────────────────────────────────────────────╯
+
+🌐 portfolio/
+│
+├── 📄 index.html
+│
+├── 🎨 css/
+│   └── style.css
+│
+├── ⚡ js/
+│   └── script.js
+│
+├── 📁 assets/
+│   ├── 🖼️ projects/
+│   ├── 📜 certificates/
+│   ├── 🖼️ certificate_thumbs/
+│   └── 📄 Surya_Dev_Resume.pdf
+│
+└── 📖 README.md
